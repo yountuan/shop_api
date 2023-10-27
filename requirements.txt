@@ -4,3 +4,5 @@ Pillow
 python-decouple
 psycopg2-binary
 python-slugify
+jinja2
+djangorestframework-simplejwt
